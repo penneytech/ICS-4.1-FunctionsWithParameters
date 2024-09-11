@@ -1,11 +1,12 @@
 /*
+
 In this excercise you will add two numbers together. 
 
 1) Declare two varaibles for 'x' and 'y' - set the initial values for each to any number between 1 and 500.
 
 2) Create a function 'addNumbers' with two parameters called 'num1' and 'num2'. Name the function whatever you'd like. 
 
-3) Call the 'addNumbers' function and use X and Y as the parameter values - e.g. (x, y) 
+3) Call the 'addNumbers' function and use X and Y as the parameter values - e.g. addNumbers(x, y) 
 
 4) Log the result to the console from within the 'addNumbers' function.
 
